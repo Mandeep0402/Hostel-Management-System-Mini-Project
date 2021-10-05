@@ -1,7 +1,7 @@
 # Hostel-Management-System-Mini-Project
 
 • Developed a management system for maintenance related tasks for the Hostel of IIIT Bhagalpur
-• EXPOSURE: C++, Software develpoment life cycle
+• EXPOSURE: C++,OOPs, Software develpoment life cycle
 
 “Hostel Management System” is a  software developed for managing various activities in the hostel. For the past few years the numbers of educational institutions are increasing rapidly. Thereby the numbers of studying in this institution. And hence there is a lot of strain on the person who are running the hostel and software’s are not usually used in this context. This particular project deals with the problems on managing a hostel and avoids the problems which occur when carried manually.
 
